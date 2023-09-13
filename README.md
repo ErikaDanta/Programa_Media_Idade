@@ -1,8 +1,8 @@
 # Programa_Media_Idade
-Nesse programa vamos aprender a programar em 6 linguagens diferentes (VisualG, C, C++, C#, Java e Python)
+Nesse programa vamos resolver um único problema em 6 linguagens diferentes (VisualG, C, C++, C#, Java e Python)
 
 
-Segue problema a baixco que vamos programar :
+Segue problema a baixco :
 
 "Media Idade"
 
@@ -51,3 +51,4 @@ Inicio
     
 
 Fimalgoritmo
+
