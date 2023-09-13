@@ -1,4 +1,4 @@
-# Programa_Media_Idade
+# Programa_Media_Idade_VisualG
 Nesse programa vamos resolver um único problema em 6 linguagens diferentes (VisualG, C, C++, C#, Java e Python)
 
 
