@@ -2,7 +2,7 @@
 
 
 Resolução do problema média idade com linguagem C :
-IDE : Code Blocks
+IDE : Code::Blocks
 
 
 #include <stdio.h>
